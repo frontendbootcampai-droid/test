@@ -1,3 +1,7 @@
 # C++
 # Markdown
 # Javascript
+# Typescript
+# Go
+------
+# C
